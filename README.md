@@ -21,8 +21,9 @@ The objective is to create an interactive and informative dashboard using Power 
 ***
 
 ## Power BI Report
-<p>The report in pbix format is here -> [Power_Bi_Dashboard](https://github.com/Cassidyd90/Power_Bi_Dashboard/tree/main/Dashboard%20File "Power_Bi_Dashboard").<br>
-The report is also available as in pdf here -> [Power_Bi_Dashboard_pdf](https://github.com/Cassidyd90/Power_Bi_Dashboard/tree/main/Dashbboard%20Pdf "Power_Bi_Dashboard_pdf") </p>
+The report in pbix format is here -> [Power_Bi_Dashboard](https://github.com/Cassidyd90/Power_Bi_Dashboard/tree/main/Dashboard%20File "Power_Bi_Dashboard").
+
+The report is also available as in pdf here -> [Power_Bi_Dashboard_pdf](https://github.com/Cassidyd90/Power_Bi_Dashboard/tree/main/Dashbboard%20Pdf "Power_Bi_Dashboard_pdf")
 
 Following are some examples of the report/dashboard in action:
 
